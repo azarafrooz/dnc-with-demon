@@ -1,0 +1,8 @@
+tqdm
+torch
+visdom
+numpy 
+tensorboard
+
+
+
