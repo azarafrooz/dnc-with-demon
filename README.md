@@ -2,7 +2,7 @@
 
 ![alt text](assets/demon.png)
 
-This is pytorch implementation of "Differentiable Neural Computers" with Memory Demon presented at 
+This is pytorch implementation of "Differentiable Neural Computers with Memory Demon" presented at 
 NeurIPS 2022 Workshop On Memory in Artificial and Real Intelligence.
 
 #  To repeat the babi experiments:
